@@ -1,3 +1,4 @@
 echo "hello"
 ls
 git log
+poll scm
